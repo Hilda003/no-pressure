@@ -8,9 +8,8 @@ The following must be installed and available on your terminal:
 
 ## Screenshots
 
-![App Screenshot](![image](https://github.com/Hilda003/no-pressure/assets/118154498/545f2125-eb17-438f-b985-943ce5f1bfa0)
-)
-![App Screenshot](![image](https://github.com/Hilda003/no-pressure/assets/118154498/320b87f8-3c63-48c4-b795-4ab5d2b70209))
+![App Screenshot](https://github.com/Hilda003/no-pressure/assets/118154498/545f2125-eb17-438f-b985-943ce5f1bfa0)
+![App Screenshot](https://github.com/Hilda003/no-pressure/assets/118154498/320b87f8-3c63-48c4-b795-4ab5d2b70209)
 
 
 
